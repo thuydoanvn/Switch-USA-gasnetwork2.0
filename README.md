@@ -4,3 +4,5 @@ by type to be drilled and completed in each investment period. Once a gas well i
 it will produce natural gas following a predetermined production curve. 
 Demand data is calibrated when running the 'gas_iterative_demand_response' module with 
 price elasticity indicated in 'gas_constant_elasticity_demand_system'.
+
+These data inputs included here are updated to the year 2022 and intended to use in optimization for the period 2023-2025.
