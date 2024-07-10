@@ -6,3 +6,7 @@ Demand data is calibrated when running the 'gas_iterative_demand_response' modul
 price elasticity indicated in 'gas_constant_elasticity_demand_system'.
 
 These data inputs included here are updated to the year 2022 and intended to use in optimization for the period 2023-2025.
+These data inputs are updated to 2022, in which base daily demand quantity and price are estimated based on 
+reference case projected by the U.S> EIA's Annual Energy Outlook 2023.
+Data inputs are ready for running the optimization in 2023-2025.
+Users may want to update data inputs to solve for other periods of interest.
